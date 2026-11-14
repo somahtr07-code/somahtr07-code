@@ -5,5 +5,5 @@ I'm interested in using data to help sports grow, especially through fan and mar
 
 - 🛠 Tools: Python, R, Excel / Google Sheets
 - 🏉 Off the screen: scrum-half for my university rugby team
-- 📫 Reach me: [[LinkedIn](https://www.linkedin.com/in/soma-hattori-kmg0613)
+- 📫 Reach me: [[LinkedIn](https://www.linkedin.com/in/soma-hattori-kmg0613)]
 
